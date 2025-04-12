@@ -1,5 +1,3 @@
-# Creative-Animation-with-The-Theater
-Period 2 APCSA Chloe P &amp; Landon L Project : Creative Animation with The Theater
 
 # Unit 7 - Creative Animation with The Theater Project
 
@@ -24,11 +22,12 @@ Link the Trello board that you used to plan this project here.
 
 [My Trello planning board](https://trello.com/b/ffYhjPDI/unit-7-project-planning)
 
+
 ## UML Diagram
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
 
-![alt text](image.png)
+![UML Diagram for my project](image.png)
 
 ## Video
 
@@ -40,8 +39,13 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+
+[![alt text](image-1.png)](https://youtu.be/zVJ0sFI2brU)
 
 ## Project Description
 
 Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
+
+
+Our animation addresses our shared personal interest in volleyball as we are both on the volleyball team at Chatsworth. We at first identified volleyball coach and player user stories, but the animation ended up being more geared towards players as it helps players
+explore their interests in the different positions you can play in volleyball, such as hitters or passers, and different kinds of volleyballs that are used to play the sport, like colorful or white volleyballs.
